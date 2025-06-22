@@ -1,0 +1,6 @@
+huggingface_hub==0.25.2
+transformers
+tensorflow
+tf-keras
+datasets
+gradio>=3.40.0
