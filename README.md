@@ -43,6 +43,7 @@ On Notebooks
 ## Deployment
 - Model hosted on: Hugging Face Model Hub - https://huggingface.co/NinaMwangi/T5_finbot
 - UI deployed via: Hugging Face Spaces using Gradio
+- Link https://huggingface.co/spaces/NinaMwangi/Finance-chatbot
 
 ## Example Conversations
 - User: What area did NVIDIA initially focus on before expanding to other computationally intensive fields?
